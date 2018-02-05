@@ -12,7 +12,7 @@ Your job is to write the code for a method called rollTheDie() that is part of t
 
 ### Getting Started
 
-Similar to previous exercises, start this exercise using the technique on the web page titled [How to Start Every Project in this Class](http://crowd.cs.sbcc.edu:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md). When complete you should have a **DieSimulator.java** file ready for you to fill with code. Replace all of the code present with the code contained in the box below:
+Similar to previous exercises, start this exercise using the technique on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105/repos/allan.knight/browse/HowToStartEveryProject.md). When complete you should have a **DieSimulator.java** file ready for you to fill with code. Replace all of the code present with the code contained in the box below:
 
 ```java
 /**
@@ -122,7 +122,7 @@ To start the process write click your project and select **Team -> Commit...** a
 
 #### Completing the turn-in process
 
-Follow the directions in [How to Turn in Every Project in This Class](http://crowd.cs.sbcc.edu:7990/projects/CS105F2016/repos/allan.knight/browse/HowToTurnInEveryProjectInThisClass.md)
+Follow the directions in [How to Turn in Every Project in This Class](http://209.129.49.15:7990/projects/CS105/repos/allan.knight/browse/HowToTurnInEveryProjectInThisClass.md)
 
 **NOTE** You do not need to anything on Canvas to turn-in your assignment, but your grade will be posted on there so that you may track your progress throughout the term.
 
